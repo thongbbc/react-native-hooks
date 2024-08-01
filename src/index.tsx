@@ -1,3 +1,5 @@
-export function multiply(a: number, b: number): Promise<number> {
-  return Promise.resolve(a * b);
-}
+import useAppState from './hooks/useAppState';
+import useDebounceCallback from './hooks/useDebounceCallback';
+import useVisible from './hooks/useVisible';
+
+export { useAppState, useDebounceCallback, useVisible };
