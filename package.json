@@ -1,5 +1,5 @@
 {
-  "name": "react-native-hooks",
+  "name": "@saintthong/react-native-hooks",
   "version": "0.1.0",
   "description": "React Native Hooks",
   "source": "./src/index.tsx",
